@@ -18,3 +18,4 @@ We do a standup every day around 11:00 am. If you're not there in person use the
 
 https://thomsonreuters.webex.com/mw3000/mywebex/cmr/cmr.do?siteurl=thomsonreuters&AT=join&username=russ.methliethomsonreuters.com
 
+this is my new change
